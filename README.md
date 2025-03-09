@@ -33,5 +33,3 @@ Two ingestion methods were tested to compare efficiency:
 This architecture illustrates the power of Azure’s serverless and event-driven ecosystem. By choosing Azure Functions for ingestion, the system becomes faster, leaner, and more cost-efficient — perfect for real-time applications.
 Would you make any adjustments or add more features? Let me know your thoughts! 🧠
 #Azure #CloudArchitecture #RealTimeData #WeatherTech #AzureFunctions #DataStreaming #PowerBI #TechInnovation
-
-![image](https://github.com/user-attachments/assets/a2494d8a-1866-4361-a288-c6e259a4dce1)
